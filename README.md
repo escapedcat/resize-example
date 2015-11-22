@@ -1,6 +1,6 @@
 # resize example
 
-Just an example hwo to call a function on different breakpoints.
+Just an example how to call a function on different breakpoints.
 
 ## Dependencies
 
@@ -17,4 +17,4 @@ npm install
 npm run start
 ```
 
-open (http://localhost:8080/app/)
+open [http://localhost:8080/app/](http://localhost:8080/app/)
