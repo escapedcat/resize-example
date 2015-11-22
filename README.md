@@ -4,7 +4,7 @@ Just an example hwo to call a function on different breakpoints.
 
 ## Dependencies
 
-- brwoserify
+- browserify
 - watchify
 
 ## Setup
@@ -17,4 +17,4 @@ npm install
 npm run start
 ```
 
-open http://localhost:8080/app/
+open [http://localhost:8080/app/]
