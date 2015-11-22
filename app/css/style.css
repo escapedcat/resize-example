@@ -1,0 +1,27 @@
+body {
+  background: pink;
+}
+
+body:before {
+  content: "smartphone";
+}
+
+@media (min-width: 700px) {
+  body {
+    background: deeppink;
+  }
+
+  body:before {
+    content: "tablet";
+  }
+}
+
+@media (min-width: 1100px) {
+  body {
+    background: purple;
+  }
+
+  body:before {
+    content: "desktop";
+  }
+}
