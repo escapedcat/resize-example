@@ -1,8 +1,0 @@
-version: 0.0
-os: linux
-files:
-  - source: /app/index.html
-    destination: /var/www/html/
-hooks:
-   BeforeInstall:
-     - location: cleanup
